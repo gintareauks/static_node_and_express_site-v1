@@ -1,0 +1,41 @@
+{
+    "projects" : [
+    {
+        "id": 0,
+        "project_name": "A Random Quote Generator",
+        "description": "An app that displays random famous quotes each time a button is clicked or every 10s.",
+        "technologies": ["JavaScript"],
+        "live-link": "http://techvisionstudio.com/personal_projects/project_8/index.html?",
+        "github_link": "https://github.com/gintareauks/a_random_quote_generator-v1?",
+        "image_urls:": ["../images/main_shots/project_1.png"]
+    },
+    {   
+        "id": 1,
+        "project_name": "Data Pagination And Filtering",
+        "description": "File of 42 students, including name, email, and picture were displayed. 1 page contains can contain 9 students on the page. I then added pagination buttons, that the user can click to display different pages of students. I also created a functional search bar",
+        "technologies": ["JavaScript"],
+        "live-link": "http://techvisionstudio.com/personal_projects/project_9/index.html?",
+        "github_link": "https://github.com/gintareauks/data-pagination-and-filtering-v1?",
+        "image_urls": ["../images/main_shots/project_2.png"]
+    },
+    {  
+        "id": 2,
+        "project_name": "Interactive Form",
+        "description": "Used JavaScript to make the form more user-friendly. I added customized and conditional behavior and interactivity. Validated user input and provided helpful error messages when the user enters invalid information into the form fields.",
+        "technologies": ["JavaScript"],
+        "live-link": "http://techvisionstudio.com/personal_projects/project_10/index.html?",
+        "github_link": "https://github.com/gintareauks/interactive-form-v3?",
+        "image_urls": ["../images/main_shots/project_3.png"]
+
+    },
+    {   
+        "id": 3,
+        "project_name": "Phrase Hunter Game",
+        "description": "Created a browser-based, word guessing game: 'Phrase Hunter.' A player tries to guess a random phrase by selecting individual letters from an onscreen keyboard. Can they guess the phrase before they run out of attempts?",
+        "technologies": ["JavaScript", "Object-Oriented Programming"],
+        "live-link": "http://techvisionstudio.com/personal_projects/project_4/index.html?",
+        "github_link": "https://github.com/gintareauks/oop_game-v2",
+        "image_urls": ["../images/main_shots/project_4.png"]
+    }
+]
+}
